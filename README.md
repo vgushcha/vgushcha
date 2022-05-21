@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vgushcha
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning ASP.NET and Python.
+- 🌱 I’m currently learning ASP.NET.
 
  
 <!---
